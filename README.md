@@ -1,4 +1,4 @@
 DemoApp
 =======
 
-Simple Demo Test Program
+Simple Demo Test Program to understand git.
